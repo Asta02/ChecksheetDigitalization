@@ -98,8 +98,8 @@ const PORT = 3003;
 
 // Configure LDAP
 // const LDAP_SERVER = 'ldap://10.19.48.7';
-// const LDAP_BASE_DN = 'dc=gs, dc=astra, dc=co, dc=id';
-// const LDAP_DOMAIN = 'gs';
+// const LDAP_BASE_DN = 'dc=, dc=, dc=co, dc=id';
+// const LDAP_DOMAIN = '';
 
 // Middleware
 //app.use(morgan('short'));
